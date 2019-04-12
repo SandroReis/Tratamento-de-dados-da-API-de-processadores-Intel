@@ -1,0 +1,21 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "teste trabalho de bd",
+  "main": "requesttest.js",
+  "scripts": {
+    "test": "echo \\\"error: no teste specified\\\" && exit '\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "sandro"
+  },
+  "keywords": [
+    "san"
+  ],
+  "author": "san",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
